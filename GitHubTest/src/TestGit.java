@@ -2,6 +2,6 @@
 public class TestGit {
 
 	public static void main(String[] a){
-		System.out.println("testinggggg");
+		System.out.println("testingggggg");
 	}
 }
